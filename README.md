@@ -1,4 +1,4 @@
-# allen-rma-builder
+# allen-rma-wrapper
 generates RMA queries using a more pythonic syntax
 
 documentation for the RMA can be found here:
